@@ -1,64 +1,148 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+    "quiz": [
+      {    "id":1,
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "The body of the Egyptian Sphinx was based on which animal?",
+          "correct_answer": "Lion",
+          "incorrect_answers": [
+              "Bull",
+              "Horse",
+              "Dog"
+          ]
       },
       {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
+        "id":2,
+        
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which of these is NOT an Australian state or territory?",
+          "correct_answer": "Alberta",
+          "incorrect_answers": [
+              "New South Wales",
+              "Victoria",
+              "Queensland"
+          ]
       },
       {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
+        "id":3,
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What colour is the circle on the Japanese flag?",
+          "correct_answer": "Red",
+          "incorrect_answers": [
+              "White",
+              "Yellow",
+              "Black"
+          ]
       },
       {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
+        "id":4,
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the capital of Denmark?",
+          "correct_answer": "Copenhagen",
+          "incorrect_answers": [
+              "Aarhus",
+              "Odense",
+              "Aalborg"
+          ]
       },
       {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
+        "id":5,
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+          "correct_answer": "Qatar",
+          "incorrect_answers": [
+              "Kuwait",
+              "United Arab Emirates",
+              "Jordan"
+          ]
       },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
+      { "id":6,
+          "category": "Geography",
+          "type": "multiple",
+          "difficulty": "easy",
+          "question": "What is the largest country in the world?",
+          "correct_answer": "Russia",
+          "incorrect_answers": [
+              "Canada",
+              "China",
+              "United States"
+          ]
       },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-      }
+      
+        {
+          "id":7,
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the capital of Turkey?",
+            "correct_answer": "Ankara",
+            "incorrect_answers": [
+                "Istanbul",
+                "Izmir",
+                "Bursa"
+            ]
+        },
+        { "id":8,
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of the US state Nevada?",
+            "correct_answer": "Carson City",
+            "incorrect_answers": [
+                "Las Vegas",
+                "Henderson",
+                "Reno"
+            ]
+        },
+        {
+          "id":9,
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of Belarus?",
+            "correct_answer": "Minsk",
+            "incorrect_answers": [
+                "Warsaw",
+                "Kiev",
+                "Vilnius"
+            ]
+        },
+        {
+          "id":10,
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Bridgetown is the capital of which island country in the Carribean?",
+            "correct_answer": "Barbados",
+            "incorrect_answers": [
+                "Cuba",
+                "Jamaica&lrm;",
+                "Dominica"
+            ]
+        },
+        {
+          "id":11,
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the northernmost human settlement with year round inhabitants?",
+            "correct_answer": "Alert, Canada",
+            "incorrect_answers": [
+                "Nagurskoye, Russia",
+                "McMurdo Station, Antarctica ",
+                "Honningsv&aring;g, Norway"
+            ]
+        }
     ]
+      
+    
   }
