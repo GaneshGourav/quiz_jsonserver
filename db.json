@@ -1,5 +1,5 @@
 {
-    "quiz": [
+    "dashboard": [
       {    "id":1,
           "category": "Geography",
           "type": "multiple",
