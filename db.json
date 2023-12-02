@@ -1,17 +1,17 @@
 {
     "dashboard": [
-      {    "id":1,
-          "category": "Geography",
-          "type": "multiple",
-          "difficulty": "easy",
-          "question": "The body of the Egyptian Sphinx was based on which animal?",
-          "correct_answer": "Lion",
-          "incorrect_answers": [
-              "Bull",
-              "Horse",
-              "Dog"
-          ]
-      },
+      // {    "id":1,
+      //     "category": "Geography",
+      //     "type": "multiple",
+      //     "difficulty": "easy",
+      //     "question": "The body of the Egyptian Sphinx was based on which animal?",
+      //     "correct_answer": "Lion",
+      //     "incorrect_answers": [
+      //         "Bull",
+      //         "Horse",
+      //         "Dog"
+      //     ]
+      // },
       {
         "id":2,
         
