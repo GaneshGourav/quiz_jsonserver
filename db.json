@@ -128,20 +128,8 @@
                 "Jamaica&lrm;",
                 "Dominica"
             ]
-        },
-        {
-          "id":11,
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the northernmost human settlement with year round inhabitants?",
-            "correct_answer": "Alert, Canada",
-            "incorrect_answers": [
-                "Nagurskoye, Russia",
-                "McMurdo Station, Antarctica ",
-                "Honningsv&aring;g, Norway"
-            ]
         }
+       
     ]
       
     
