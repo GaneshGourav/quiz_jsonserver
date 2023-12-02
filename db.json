@@ -103,19 +103,19 @@
                 "Reno"
             ]
         },
-        {
-          "id":9,
-            "category": "Geography",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the capital of Belarus?",
-            "correct_answer": "Minsk",
-            "incorrect_answers": [
-                "Warsaw",
-                "Kiev",
-                "Vilnius"
-            ]
-        },
+        // {
+        //   "id":9,
+        //     "category": "Geography",
+        //     "type": "multiple",
+        //     "difficulty": "medium",
+        //     "question": "What is the capital of Belarus?",
+        //     "correct_answer": "Minsk",
+        //     "incorrect_answers": [
+        //         "Warsaw",
+        //         "Kiev",
+        //         "Vilnius"
+        //     ]
+        // },
         {
           "id":10,
             "category": "Geography",
